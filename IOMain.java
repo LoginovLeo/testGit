@@ -12,7 +12,7 @@ public class IOMain {
         a = scanner.nextInt();
         System.out.println("Please enter a number b");
         b = scanner.nextInt();
-        System.out.println("Please enter a number c");
+        System.out.println("Please enter a number cc");
         c = scanner.nextInt();
 
         System.out.println("Result: a = " + a + " , b = " + b);
